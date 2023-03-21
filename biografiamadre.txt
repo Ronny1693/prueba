@@ -1,2 +1,4 @@
 mi madre se llama Sofia
 este es un nuevo cambio a mi archivo
+
+la edad de mi gato es de 4
